@@ -7,15 +7,15 @@ sob is a minimalistic privacy and security oriented web browser, with novel feat
 ### Comparison (with default settings)
 sob vs Chromium based browsers (Chrome, Edge) vs Gecko based browsers (Firefox, Seamonkey)
 
-- Smallest codebase:			sob
+- Smallest codebase: sob
 
-- Smallest attack surface:		sob
+- Smallest attack surface: sob
 
-- Least expired flags over lifetime:	sob
+- Least expired flags over lifetime: sob
 
-- Fastest startup time:			sob
+- Fastest startup time:	sob
 
-- Least shared data[^1]:		sob
+- Least shared data[^1]: sob
 
 [^1]: Evidence supporting "Least shared data" claim:
 
@@ -26,4 +26,3 @@ sob vs Chromium based browsers (Chrome, Edge) vs Gecko based browsers (Firefox, 
 	Firefox privacy notice: https://www.mozilla.org/en-US/privacy/firefox/
 	
 	Seamonkey startup requests: https://spyware.neocities.org/articles/seamonkey.html
-	
